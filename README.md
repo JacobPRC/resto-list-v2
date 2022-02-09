@@ -26,13 +26,13 @@ How can I contribute to this app? -->
 
 ## Roadmap
 
-# What are the current goals of this app and what would I like to accomplish?
+### What are the current goals of this app and what would I like to accomplish?
 
-# Current goal:
+#### Current goal:
 
 Create a minimum viable product. The base case of this app is to sign in, have a list of tried and want to try restaurants with CRUD functionality. After that implement filtering.
 
-# Future goals:
+#### Future goals:
 
 - Be able to have multiple lists, most likely implementation is for different cities. And maybe an optional list for cafes?
 
