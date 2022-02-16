@@ -28,23 +28,39 @@ How can I contribute to this app? -->
 
 ### What are the current goals of this app and what would I like to accomplish?
 
-#### Current goal:
+#### Current goals:
 
-Create a minimum viable product. The base case of this app is to sign in, have a list of tried and want to try restaurants with CRUD functionality. After that implement filtering.
+Create a minimum viable product:
+
+- Set up DB models [x]
+
+- Set up DB tests []
+
+- Set up basic CRUD routes []
+
+- Set up route tests []
+
+- Set up auth handling []
+
+- Set up filtering routes and tests []
+
+- Make prodction ready []
+
+- Attach front end []
 
 #### Future goals:
 
-- Be able to have multiple lists, most likely implementation is for different cities. And maybe an optional list for cafes?
+- Be able to have multiple lists, most likely implementation is for different cities. And maybe an optional list for cafes? []
 
-- Use a Google API to autofill details of restaurants. Add ability to filter by location and show in little box with resto info miles/km from you.
+- Use a Google API to autofill details of restaurants. Add ability to filter by location and show in little box with resto info miles/km from you. []
 
-- Add function to make a public list. This list would not be part of a collection. Can be viewed by all users
+- Add function to make a public list. This list would not be part of a collection. Can be viewed by all users []
 
-- Maybe have a large database of restaurants. Be able to look through restaurants near you or in x city and also filter like with your lists. Friend other users. Send resto recs to friends. Basically scale this into a foodie version of letterboxd
+- Maybe have a large database of restaurants. Be able to look through restaurants near you or in x city and also filter like with your lists. Friend other users. Send resto recs to friends. Basically scale this into a foodie version of letterboxd []
 
-- Add a forum for users to discuss and recommend restaurants/food. Similar to Reddit for food recommendations
+- Add a forum for users to discuss and recommend restaurants/food. Similar to Reddit for food recommendations []
 
-- Make into a mobile app as well as a web app
+- Make into a mobile app as well as a web app []
 
 ## License
 
