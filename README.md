@@ -36,6 +36,12 @@ Create a minimum viable product. The base case of this app is to sign in, have a
 
 - Be able to have multiple lists, most likely implementation is for different cities. And maybe an optional list for cafes?
 
+- Use a Google API to autofill details of restaurants. Add ability to filter by location and show in little box with resto info miles/km from you.
+
+- Add function to make a public list. This list would not be part of a collection. Can be viewed by all users
+
+- Maybe have a large database of restaurants. Be able to look through restaurants near you or in x city and also filter like with your lists. Friend other users. Send resto recs to friends. Basically scale this into a foodie version of letterboxd
+
 - Add a forum for users to discuss and recommend restaurants/food. Similar to Reddit for food recommendations
 
 - Make into a mobile app as well as a web app
