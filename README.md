@@ -30,6 +30,8 @@ How can I contribute to this app? -->
 
 #### Current goals:
 
+For self: read this https://github.com/dwyl/learn-tdd, then this https://github.com/dwyl/learn-tape before starting on testing
+
 Create a minimum viable product:
 
 - Set up DB models [x]
