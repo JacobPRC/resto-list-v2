@@ -4,7 +4,8 @@
   "description": "RestoList app",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon app/server.js"
+    "dev": "nodemon app/server.js",
+    "test": "node app/lists/list-model.tape.js"
   },
   "keywords": [],
   "author": "JacobPRC",
