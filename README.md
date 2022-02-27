@@ -38,6 +38,8 @@ Create a minimum viable product:
 
 - Set up DB tests []
 
+- Connect to CI/CD []
+
 - Set up basic CRUD routes []
 
 - Set up route tests []
