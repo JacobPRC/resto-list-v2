@@ -38,7 +38,7 @@ Create a minimum viable product:
 
 - Set up DB tests []
 
-- Connect to CI/CD []
+- Integrate with Gitlabs and deploy to Heroku []
 
 - Set up basic CRUD routes []
 
